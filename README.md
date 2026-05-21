@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Manitas
 
 Landing estatica para una persona que ofrece servicios de manitas, reparaciones y mantenimiento.
@@ -25,3 +26,6 @@ Edita:
 - Zona real de trabajo.
 - Fotos reales de antes/despues.
 - Opiniones reales de clientes.
+=======
+# manitasalhaurin
+>>>>>>> 3e9629c02139309beb8957d590c2d80770c4495b
